@@ -15,13 +15,13 @@
 
 ## Insights and Conclusions:-
 
-#####  4.2 lakh People died and more than 5.5 lakh got wounded during 1970-2017 due to Terrorism 
-##### Most terrorist activities happened during 2013-17, especially in the year 2014 (Total no. of attacks 16048)       
-##### Iraq is the most affected Country (Total no. of attacks 22866)     
-##### Baghdad is the most affected city (Total no. of attacks 7326)     
-##### Northern Ireland is the most affected Province.      
-##### Middle-East is the most affected Region.        
-##### Private-Citizens and Property(40541 targeted) and Millitary(27272 targeted) are the kind of people mostly targeted during attacks.                 
-##### Explosives(83421 incidents) and Firearms(56830 incidents) are mostly used during attacks.
-##### Bombing is the most frequently used method of an attack(79275 times)
-##### Taliban and ISIL are the top Terrorist Organisations(Responsible for total 7216 and 4997 no. of attacks respectively.)
+###### 4.2 lakh People died and more than 5.5 lakh got wounded during 1970-2017 due to Terrorism 
+###### Most terrorist activities happened during 2013-17, especially in the year 2014 (Total no. of attacks 15977)       
+###### Iraq is the most affected Country (Total no. of attacks 22866)     
+###### Baghdad is the most affected city (Total no. of attacks 7326)     
+###### Northern Ireland is the most affected Province.      
+###### Middle-East is the most affected Region.        
+###### Private-Citizens and Property(40464 targeted) and Millitary(27240 targeted) are the kind of people mostly targeted during attacks.
+###### Explosives(83240 incidents) and Firearms(56771 incidents) are mostly used during attacks.
+###### Bombing is the most frequently used method of an attack(79098 times)
+###### Taliban and ISIL are the top Terrorist Organisations(Responsible for total 7216 and 4997 no. of attacks respectively.)
